@@ -18,3 +18,4 @@ Update Features :
 12. Manage Windows Firewall.
 13. Manage Windows Remote Desktop Connection.
 14. Wake On Lan PC / Laptop On Network.
+15. View Histori User Hotspot Per Day.
