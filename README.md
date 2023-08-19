@@ -11,7 +11,7 @@ Release Note :
 2. Version 2 (Comming Soon)
 
 
-
+We're really appreciate for you guys who wanna give a feed back to us to be able to improve this software much better and user friendly.
 
 <br>
 <br>
@@ -23,6 +23,5 @@ Powered By :
 
 Developed By :
 <a href="https://www.facebook.com/risman.afyandi.9" target="_blank">Risman Afyandi A.Md.</a>
-
 
 
