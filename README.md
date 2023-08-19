@@ -13,9 +13,11 @@ Release Note :
 <br>
 We're really appreciate for you guys who wanna give a feed back to us to be able to improve this software much better and user friendly.
 
+<br>
 Please Send Your Feedback To :
-Email 1 : <a href="mailto:rismanafyandi.90@outlook.com">Send Feedback</a>
-Email 2 : <a href="mailto:rismanafyandi92@gmail.com">Send Feedback</a>
+<br>
+Email 1 : <a href="mailto:rismanafyandi.90@outlook.com">Send Feedback</a><br>
+Email 2 : <a href="mailto:rismanafyandi92@gmail.com">Send Feedback</a><br>
 <br>
 <br>
 
