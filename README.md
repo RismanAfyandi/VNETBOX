@@ -7,7 +7,11 @@ Mikrotik &amp; Windows Management With Voucher Hotspot Billing Portable
 This software will continue to be updated and present features that can spoil the user.
 
 Release Note : 
-1. Version 1 [<a href="https://github.com/RismanAfyandi/VNETBOX/blob/main/release_note_v1_19_agustus_2023.txt">Release Note V1.1</a>]
+1. Version 1 (Still Free) [<a href="https://github.com/RismanAfyandi/VNETBOX/blob/main/release_note_v1_19_agustus_2023.txt">Release Note V1.1</a>]
+
+
+
+
 
 
 Powered By :
@@ -15,3 +19,6 @@ Powered By :
 
 Developed By :
 <a href="https://www.facebook.com/risman.afyandi.9" target="_blank">Risman Afyandi A.Md.</a>
+
+
+
