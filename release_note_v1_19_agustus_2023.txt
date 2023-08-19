@@ -8,3 +8,10 @@ Update Features :
 3. Set Mikrotik API Port To Be Able To Connect Using VNETBOX
 4. Dashboard Realtime To Measure Mikrotik RAM Performance, CPU Performanace,
    Active User Hotspot And Traffice Per Interface.
+5. Create New Hotspot User Profile.
+6. Generate User Hotspot.
+7. Dynamically Add Scheduler For Hotspot User Profile.
+8. Monitoring Log Mikrotik.
+9. Terminal For Manage Mikrotik Using Script.
+10. Manage User Mikrotik.
+11. View Resource Mikrotik
