@@ -1,7 +1,6 @@
 Release Note VNETBOX V1.1 - 19 August 2023
 
-This version stil in development progress and will be free for every one who want to use it. Also we really appreciate
-for you guys who wanna give a feed back to us to be able to improve this software much better and user friendly.
+This version stil in development progress and will be free for every one who want to use it.
 
 Update Features :
 1. Discoverable Mikrotik Device On Network
