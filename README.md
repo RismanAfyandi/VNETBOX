@@ -22,6 +22,7 @@ Email 2 : <a href="mailto:rismanafyandi92@gmail.com">Send Feedback</a><br>
 
 Powered By :
 <a href="https://mlink.id" target="_blank">MLINK.ID</a>
+
 Developed By :
 <a href="https://www.facebook.com/risman.afyandi.9" target="_blank">Risman Afyandi A.Md.</a>
 
