@@ -15,3 +15,6 @@ Update Features :
 9. Terminal For Manage Mikrotik Using Script.
 10. Manage User Mikrotik.
 11. View Resource Mikrotik.
+12. Manage Windows Firewall.
+13. Manage Windows Remote Desktop Connection.
+14. Wake On Lan PC / Laptop On Network.
