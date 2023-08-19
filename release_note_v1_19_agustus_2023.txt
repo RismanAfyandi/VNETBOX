@@ -14,4 +14,4 @@ Update Features :
 8. Monitoring Log Mikrotik.
 9. Terminal For Manage Mikrotik Using Script.
 10. Manage User Mikrotik.
-11. View Resource Mikrotik
+11. View Resource Mikrotik.
