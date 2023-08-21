@@ -26,8 +26,10 @@ Powered By :
 Developed By :
 <a href="https://www.facebook.com/risman.afyandi.9" target="_blank">Risman Afyandi A.Md.</a>
 
-We're Also Open Donation To Keep Improve This Software : <br> 
+<br><br>
+We're Also Open Donation To Keep Improve This Software : <br><br>
 ![donate](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/5109a67d-5cf3-4fe0-b5d1-cc22c34e8e04)
 
-
-
+OVO : <b>081223295127</b><br>
+BCA : <b>8105254861 A.n Risman Afyandi</b><br>
+PayPal : <a href="https://paypal.me/rismanafyandi92">Send Paypal</a><br>
