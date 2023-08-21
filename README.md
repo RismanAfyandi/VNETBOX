@@ -16,7 +16,7 @@ This software will continue to be updated and present features that can spoil th
 <br>
 
 # Community
-Telegram : <a href="https://t.me/vnetbox">Group VnetBox</a>
+Telegram : <a href="https://t.me/vnetbox" target="_blank">Group VnetBox</a>
 
 <br>
 We're really appreciate for you guys who wanna give a feed back to us to be able to improve this software much better and user friendly.
@@ -36,7 +36,7 @@ We're Also Open Donation To Keep Improve This Software : <br><br>
 
 OVO : <b>081223295127</b><br>
 BCA : <b>8105254861 A.n Risman Afyandi</b><br>
-PayPal : <a href="https://paypal.me/rismanafyandi92">Send Paypal</a><br>
+PayPal : <a href="https://paypal.me/rismanafyandi92" target="_blank">Send Paypal</a><br>
 
 <br>
 
