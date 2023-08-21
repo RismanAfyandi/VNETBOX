@@ -9,7 +9,9 @@ This software will continue to be updated and present features that can spoil th
 Release Note : 
 1. Version 1 (Still Free) [<a href="https://github.com/RismanAfyandi/VNETBOX/blob/main/release_note_v1_19_agustus_2023.txt">Release Note V1.1</a>]
 2. Version 2 (Still Free) [<a href="https://github.com/RismanAfyandi/VNETBOX/blob/main/release_note_v2_21_agustus_2023.txt">Release Note V2</a>]
+3. Version 3 (Coming Soon) 
 
+<br>
 <br>
 We're really appreciate for you guys who wanna give a feed back to us to be able to improve this software much better and user friendly.
 
