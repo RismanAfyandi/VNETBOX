@@ -1,1 +1,7 @@
-Update
+Release Note VNETBOX V2 - 21 August 2023
+
+This version stil in development progress and will be free for every one who want to use it.
+
+Update Features :
+1. Windows Terminal Integration To Help You Access Windows From VNETBOX Win Terminal.
+2. Add VNETBOX GPT Terminal To Help You Get Any Help While Config The Router.
