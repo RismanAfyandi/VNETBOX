@@ -33,3 +33,29 @@ VnetBox require user to input their mikrotik credential to be able to connect to
     Connect : <b>Action connect to mikrotik</b>
   </li>
 </ul>
+
+<br>
+
+# Api Port Config
+Configuration Api Port Form
+
+![configure_api](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/21e1cdb4-9008-435a-81cc-847519e6f656)
+
+VnetBox require user to input their mikrotik valid api port to be able to connect to mikrotik.
+
+<h3>Input Fields</h3>
+<ul>
+  <li>
+    Mikrotik API Port : <b>Input by mikrotik ip port</b>
+  </li>
+  <li>
+    Mikrotik API Port SSL : <b>Input by mikrotik ip port ssl</b>
+  </li>
+</ul>
+
+<h3>Buttons</h3>
+<ul>
+  <li>
+    Save : <b>Save mikrotik api configuration</b>
+  </li>
+</ul>
