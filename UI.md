@@ -69,3 +69,31 @@ VnetBox Dashboard
 
 VnetBox will show you some informations like <b>CPU Loads</b>, <b>CPU Frequency</b>, <b>Active user hotspot</b> and <b>Bandwith traffice</b> in the realtime.
 
+<br>
+
+# Set Identity Mikrotik
+VnetBox Set Identity Mikrotik Form
+
+![set_identity](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/0d065a3e-1762-4c7f-87c8-190a7ac3ef67)
+
+VnetBox be able to set identity mikrotik using this form.
+
+<h3>Input Fields</h3>
+<ul>
+  <li>
+    Identity : <b>Input mikrotik identity name</b>
+  </li>
+</ul>
+
+<h3>Buttons</h3>
+<ul>
+  <li>
+    Save : <b>Save mikrotik identiy then close the form</b>
+  </li>
+  <li>
+    Cancel : <b>Close the form without save identity</b>
+  </li>
+  <li>
+    Apply : <b>Save identity mikrotik</b>
+  </li>
+</ul>
