@@ -8,6 +8,13 @@ This software will continue to be updated and present features that can spoil th
 
 <br>
 
+# Information
+Sadly, For Now And Security Reason We Have To Erase <b>Win Terminal Tools</b> In Version 2.1 Because Still Read As A Virus.
+<br>
+For User Convenience We Have To Erase It For Now.
+
+Thank You.
+
 # Release Note : 
 <a href="https://github.com/RismanAfyandi/VNETBOX/blob/main/RELEASE.md">Release Notes</a>
 
