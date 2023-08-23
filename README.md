@@ -37,7 +37,7 @@ Please Send Your Feedback To : <br><br>
 Email 1 : <a href="mailto:rismanafyandi.90@outlook.com">Send Feedback</a><br>
 Email 2 : <a href="mailto:rismanafyandi92@gmail.com">Send Feedback</a><br>
 
-<br><br>
+<br>
 
 # Donation
 We're Also Open Donation To Keep Improve This Software : <br><br>
