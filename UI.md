@@ -59,3 +59,13 @@ VnetBox require user to input their mikrotik valid api port to be able to connec
     Save : <b>Save mikrotik api configuration</b>
   </li>
 </ul>
+
+<br>
+
+# Dashboard
+VnetBox Dashboard
+
+![dashboard](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/1db739d3-bf00-4f04-99ac-02df7b1b9e93)
+
+VnetBox will show you some informations like <b>CPU Loads</b>, <b>CPU Frequency</b>, <b>Active user hotspot</b> and <b>Bandwith traffice</b> in the realtime.
+
