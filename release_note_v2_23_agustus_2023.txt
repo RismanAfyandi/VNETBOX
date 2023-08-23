@@ -1,0 +1,6 @@
+Release Note VNETBOX v2.1 - 23 August 2023
+
+This version stil in development progress and will be free for every one who want to use it.
+
+Update Features :
+1. IP Calculator Terminal To Help You Count IP Range While Config The Router.
