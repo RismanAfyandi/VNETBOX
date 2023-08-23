@@ -30,6 +30,8 @@ Update Features :
 1. Windows Terminal Integration To Help You Access Windows From VNETBOX Win Terminal.
 2. Add VNETBOX GPT Terminal To Help You Get Any Help While Config The Router.
 
+![VnetGptTerminal](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/98a76096-cbf1-4f46-84f9-bbcfc9201d30)
+
 <br>
 
 # VNETBOX v2.1
@@ -39,3 +41,4 @@ Release Date : 23 August 2023
 Update Features :
 1. IP Calculator Terminal To Help You Count IP Range While Config The Router.
 
+![IpTerminal](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/5995b7b9-5c3f-4995-a5b5-d9cc1da087b0)
