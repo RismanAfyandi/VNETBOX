@@ -2,7 +2,7 @@
 ![vnetsmall](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/b9ee6fbf-c7e8-4ce7-9fd3-d9006e086ab6)
 
 
-Mikrotik &amp; Windows Management With Voucher Hotspot Billing Portable
+Mikrotik &amp; Windows Management With Internet Service Billing Portable
 <br>
 This software will continue to be updated and present features that can spoil the user.
 
