@@ -25,7 +25,7 @@ Thank You.
 # Release Note : 
 <a href="https://github.com/RismanAfyandi/VNETBOX/blob/main/RELEASE.md">Release Notes</a>
 
-<b>Version 3 (Coming Soon)</b>  
+<b>Version 3 (Coming Soon With More Features Inside)</b> 
 
 <br>
 
