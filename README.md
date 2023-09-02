@@ -28,7 +28,7 @@ Thank You.
 <b>Version 3 (Coming Soon With More Features Inside)</b> 
 
 On of feature that we proud of is RCS on VnetBox. Because still the most powerfull messaging platform in the world is SMS and 
-now VnetBox will support Google to bring the new modern SMS to the world.
+now VnetBox will support <b>Google</b> to bring the new modern SMS to the world.
 
 ![RCS](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/1b6049ea-d737-4b35-856a-57c813b14108)
 
