@@ -9,7 +9,7 @@ This software will continue to be updated and present features that can spoil th
 <br>
 
 # Official Site
-<a href="https://vnetbox.cloud/">Visit Official Site</a>
+<a href="https://vnetbox.cloud/" target="_blank">Visit Official Site</a>
 
 <br>
 
