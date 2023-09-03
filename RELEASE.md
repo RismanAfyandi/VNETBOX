@@ -66,7 +66,7 @@ Update Features :
 4. Send Email To PPPOE Customer When Payment Date Is Coming (90%).
 5. On and Off Service Mikrotik From VnetBox.
 6. Setting Email Sender Host.
-7. Setting VnetBox Web Portal (70%).
+7. Setting VnetBox Web Portal (70%) - Default Url : localhost:5000 (You can access using any ip address if you alread set the ip).
 8. Integration With Bluetooth Printer.
 
 ![Bluetooth](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/859b26ac-a1c1-4064-a349-96b7ae5e859d)
