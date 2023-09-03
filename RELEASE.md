@@ -63,7 +63,7 @@ Update Features :
 ![SetPppoeData](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/5ad56b94-c185-443e-bed4-c09c075953b0)
 
 3. Add Realtime Notification If Service PPOE Down.
-4. Send Email To PPPOE Customer When Payment Date Is Coming.
+4. Send Email To PPPOE Customer When Payment Date Is Coming (90%).
 5. On and Off Service Mikrotik From VnetBox.
 6. Setting Email Sender Host.
 7. Setting VnetBox Web Portal (70%).
