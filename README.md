@@ -31,7 +31,7 @@ now VnetBox will support <b>Google</b> to bring the new modern SMS to the world.
 
 ![RCS](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/1b6049ea-d737-4b35-856a-57c813b14108)
 
-And how this feature will work on VnetBox ? Just Wait and See At Next Version.
+And how this feature will work on VnetBox ? Just Wait and See At Next Version 3.
 
 <br>
 
