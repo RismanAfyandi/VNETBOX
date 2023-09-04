@@ -10,6 +10,12 @@ VnetBox is developed by a small but growing team of core developers. In turn the
 
 <br>
 
+For the newest version we have to move to <b>GITLAB</b>
+<br>
+<a href="https://gitlab.com/rismanafyandi92/vnetbox/-/tree/master?ref_type=heads">Go VnetBox On GitLab</a>
+
+<br>
+
 # Official Site
 <a href="https://vnetbox.cloud/" target="_blank">Visit Official Site</a>
 
