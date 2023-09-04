@@ -6,7 +6,7 @@ Mikrotik &amp; Windows Management With Internet Service Billing Portable
 This software will continue to be updated and present features that can spoil the user.
 <br>
 <br>
-VnetBox is developed by a small but growing team of core developers. In turn the core developers are supported by an active user community including system administrators, network administrators, enterprise users, managers, core Linux contributors and Linux enthusiasts from around the world.
+VnetBox is developed by a small but growing team of core developers. In turn the core developers are supported by an active user community including system administrators, network administrators, enterprise users, managers, core Linux contributors, people on internet service provider and Linux enthusiasts from around the world.
 
 <br>
 
