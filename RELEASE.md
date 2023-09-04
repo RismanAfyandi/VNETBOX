@@ -49,6 +49,8 @@ Update Features :
 
 ![IpTerminal](https://github.com/RismanAfyandi/VNETBOX/assets/12500895/5995b7b9-5c3f-4995-a5b5-d9cc1da087b0)
 
+<br>
+
 # VNETBOX v2.2
 
 Release Date : 04 September 2023
