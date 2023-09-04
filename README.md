@@ -15,6 +15,17 @@ VnetBox is developed by a small but growing team of core developers. In turn the
 
 <br>
 
+# Information
+We're sorry for unexpected error in version v2.2
+
+We're already fixed an error and update to version v2.3
+- Update Fix Crash When First Launch
+
+You guys can download the neweset version on gitlab below :
+<a href="https://gitlab.com/rismanafyandi92/vnetbox/-/tree/master?ref_type=heads">Download Latest Version On Gitlab</a>
+
+<br>
+
 # Release Note : 
 <a href="https://github.com/RismanAfyandi/VNETBOX/blob/main/RELEASE.md">Release Notes</a>
 
